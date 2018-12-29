@@ -19,7 +19,19 @@ b, strong {
 
 .container h1 {
 	color: #666666;
-	font-size: 150px;
+	font-size: 50px;
+}
+
+@media screen and (min-width: 40em) {
+	.container h1 {
+		font-size: 100px;
+	}
+}
+
+@media screen and (min-width: 64em) {
+	.container h1 {
+		font-size: 150px;
+	}
 }
 
 .footer {
