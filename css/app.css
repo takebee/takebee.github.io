@@ -33,38 +33,3 @@ b, strong {
 		font-size: 150px;
 	}
 }
-
-.footer {
-	color: #666666;
-	background-color: #f2f2f2;
-	padding: 16px 0;
-}
-
-.footer a {
-	color: #666666;
-}
-
-.footer a:hover,
-.footer a:focus {
-	color: #000000;
-}
-
-.footer .logo-glyph,
-.footer .logo-type {
-	margin-bottom: 16px;
-}
-
-.footer .logo-glyph {
-	width: 45px;
-	height: 45px;
-}
-
-.footer .logo-type {
-	width: 110px;
-	height: 20px;
-}
-
-.footer .copyright {
-	color: #666666;
-	margin-bottom: 0;
-}
